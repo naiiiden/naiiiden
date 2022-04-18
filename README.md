@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naiiiden
 - 👀 I’m interested in Sports. Mainly running, but I'll try triathlon in 2022/23.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord: naiden#7443
 

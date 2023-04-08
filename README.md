@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sports. Mainly running.
 - 🌱 I’m currently learning React & A11y.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord: naiden#7443
+- 📫 How to reach me ... 
 
 <!---
 naiiiden/naiiiden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

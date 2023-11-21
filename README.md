@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naiiiden
-- 👀 I’m interested in Sports. Mainly running.
+- 👀 I’m interested in anything related to front-end and web development, UI/UX design and sports (mainly running).
 - 🌱 I’m currently learning React & A11y.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
